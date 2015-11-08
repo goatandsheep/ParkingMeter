@@ -14,3 +14,10 @@ Using
 * Commit your project file, i.e. `main.rp` in the `main` branch
 * The folder you export your html to should be your git directory, i.e. path(git dir) = path(export dir)
 * Commit the HTML to the `gh-pages` branch
+
+Refund
+-------
+
+* Home: wip
+* Scan: wip
+* Print: prints the receipt. To print, say `document.getElementsByName("receipt")[0].innerHTML+="Whatever you want to print on the receipt";`

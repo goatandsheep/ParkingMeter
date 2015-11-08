@@ -18,6 +18,11 @@ Using
 Refund
 -------
 
-* Home: wip
-* Scan: wip
-* Print: prints the receipt. To print, say `document.getElementsByName("receipt")[0].innerHTML+="Whatever you want to print on the receipt";`
+* Home: need language page names from Kevin
+* Scan:
+	* need to `setTimeout(change display, 1000ms);` after moving the receipt up, down
+	* Make change slot background beige on confirming refund
+	* Make change slot background back to grey after clicking on it
+* Print:
+	* prints the receipt. To print, say `document.getElementsByName("receipt")[0].innerHTML+="Whatever you want to print on the receipt";`
+	* Need to figure out how to make the screen a sidebar

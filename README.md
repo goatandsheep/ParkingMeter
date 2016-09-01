@@ -4,7 +4,7 @@ ParkingMeter
 Introduction
 ------------
 
-A group design project of a parking meter for school. The parking meter allows the user to be able to insert currency and prints out a receipt placed on the car dashboard. This was built using a website builder, called axure
+A group design project of a parking meter for school. The parking meter allows the user to be able to insert currency and prints out a receipt placed on the car dashboard. This was built using a website builder, called [axure](http://www.axure.com/). [See the design here](https://goatandsheep.github.io/ParkingMeter/).
 
 Course: SFWR ENG 4HC3
 
